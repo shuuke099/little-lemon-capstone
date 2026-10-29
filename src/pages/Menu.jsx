@@ -1,0 +1,2 @@
+import SpecialCards from '../components/SpecialCards';
+export default function Menu() { return <main className="section inner-page"><div className="container"><span className="eyebrow">Made fresh, served with love</span><h1>Our menu</h1><p className="page-intro">A small sample of the Mediterranean favorites we love to share.</p><SpecialCards/><p className="menu-note">Menu selections and prices are illustrative for this educational project.</p></div></main>; }
